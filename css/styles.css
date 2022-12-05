@@ -86,7 +86,8 @@ h3 {
 .section__background {
     background-color: var(--background-gray);
     background-image: linear-gradient(#2F303A66,  #2F303A66 ), url(../images/office.jpg);
-    background-position: 50% 50%;;
+    background-position: 50% 50%;
+    margin: auto;
     max-width: 1600px;
 }
 .gray-container {
